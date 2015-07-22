@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+	<title>Zach's Website</title>
+</head>
+<body>
+
+<h1>Zach<em>is great</em> at html</h1>
+<p> look at this page!</p>
+
+
+<h2>1.2 Dogs</h2>
+
+<!--some comment is a comment -->
+<h2>1.5 cats</h2>
+
+
+</body>
+</html>
